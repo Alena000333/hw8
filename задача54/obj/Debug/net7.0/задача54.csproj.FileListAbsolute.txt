@@ -1,0 +1,15 @@
+C:\Users\алена\OneDrive\Рабочий стол\HW\hw8\задача54\bin\Debug\net7.0\задача54.exe
+C:\Users\алена\OneDrive\Рабочий стол\HW\hw8\задача54\bin\Debug\net7.0\задача54.deps.json
+C:\Users\алена\OneDrive\Рабочий стол\HW\hw8\задача54\bin\Debug\net7.0\задача54.runtimeconfig.json
+C:\Users\алена\OneDrive\Рабочий стол\HW\hw8\задача54\bin\Debug\net7.0\задача54.dll
+C:\Users\алена\OneDrive\Рабочий стол\HW\hw8\задача54\bin\Debug\net7.0\задача54.pdb
+C:\Users\алена\OneDrive\Рабочий стол\HW\hw8\задача54\obj\Debug\net7.0\задача54.csproj.AssemblyReference.cache
+C:\Users\алена\OneDrive\Рабочий стол\HW\hw8\задача54\obj\Debug\net7.0\задача54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\алена\OneDrive\Рабочий стол\HW\hw8\задача54\obj\Debug\net7.0\задача54.AssemblyInfoInputs.cache
+C:\Users\алена\OneDrive\Рабочий стол\HW\hw8\задача54\obj\Debug\net7.0\задача54.AssemblyInfo.cs
+C:\Users\алена\OneDrive\Рабочий стол\HW\hw8\задача54\obj\Debug\net7.0\задача54.csproj.CoreCompileInputs.cache
+C:\Users\алена\OneDrive\Рабочий стол\HW\hw8\задача54\obj\Debug\net7.0\задача54.dll
+C:\Users\алена\OneDrive\Рабочий стол\HW\hw8\задача54\obj\Debug\net7.0\refint\задача54.dll
+C:\Users\алена\OneDrive\Рабочий стол\HW\hw8\задача54\obj\Debug\net7.0\задача54.pdb
+C:\Users\алена\OneDrive\Рабочий стол\HW\hw8\задача54\obj\Debug\net7.0\задача54.genruntimeconfig.cache
+C:\Users\алена\OneDrive\Рабочий стол\HW\hw8\задача54\obj\Debug\net7.0\ref\задача54.dll
